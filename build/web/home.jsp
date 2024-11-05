@@ -29,7 +29,7 @@
             <div class="container px-4 px-lg-5 my-5">
                 <div class="text-center text-w
                      hite">
-                    <h1 class="display-4 fw-bolder" style="color: white">Fashion Clothes</h1>
+                    <h1 class="display-4 fw-bolder" style="color: white">Pet Store</h1>
                     <p class="lead fw-normal text-white-50 mb-0">
                         Good to the last drop!
                     </p>
