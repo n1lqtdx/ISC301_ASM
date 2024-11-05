@@ -31,7 +31,7 @@
                      hite">
                     <h1 class="display-4 fw-bolder" style="color: white">Pet Store</h1>
                     <p class="lead fw-normal text-white-50 mb-0">
-                        “Những chú chó… đừng làm hỏng giấc ngủ của chúng khi lo lắng về việc làm thế nào để giữ những đồ vật chúng có, và lấy những đồ vật chúng không có. Không có gì giá trị mà họ phải để lại ngoại trừ tình yêu và niềm tin của họ.” – Nguyễn Thế Anh
+                        “Những chú chó… đừng làm hỏng giấc ngủ của chúng khi lo lắng về việc làm thế nào để giữ những đồ vật chúng có, và lấy những đồ vật chúng không có. Không có gì giá trị mà họ phải để lại ngoại trừ tình yêu và niềm tin của họ.” – Nguyễn Thế Anh (Không nói vậy)
                     </p>
                 </div>
             </div>
