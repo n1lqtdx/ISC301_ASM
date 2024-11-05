@@ -69,7 +69,7 @@
                             </c:forEach>
                             </tbody>
                         </table>
-                        <h3>Total Amount: $${totalMoney}</h3>
+                        <h3>Total Amount: ${totalMoney} VND</h3>
                         <a href="checkout" class="btn btn-success w-25">Check out</a>
                     </c:otherwise>
                 </c:choose>
