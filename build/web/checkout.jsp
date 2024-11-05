@@ -63,7 +63,7 @@
                             </c:forEach>
                             </tbody>
                         </table>
-                        <h3>Total Amount: $${totalMoney}</h3>
+                        <h3>Total Amount: ${totalMoney} VND</h3>
                     </div>
                     <div class="col-md-4" style="border: 1px solid #ccc; border-radius: 5px; padding: 1rem">
                         <h3>Information of customer</h3>
