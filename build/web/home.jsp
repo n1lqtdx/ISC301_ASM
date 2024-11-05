@@ -11,7 +11,7 @@
             />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Fashion Clothes</title>
+        <title>Pet Store</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
